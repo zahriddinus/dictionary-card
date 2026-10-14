@@ -1,0 +1,6 @@
+{
+  "name": "LingoCard - Ingliz tili flesh-kartalari va kundalik mashqlar",
+  "description": "Ingliz tilini interaktiv flesh-kartalar, kundalik mashq va vazifalar, testlar va talaffuz orqali o'rganish uchun mobil ilova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
